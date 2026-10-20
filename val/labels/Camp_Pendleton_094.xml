@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>Helicopter_new_800</folder>
+  <filename>Camp_Pendleton_094</filename>
+  <path>H:\TrainData\Plane\Helicopter_new_800\Camp_Pendleton_094.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Nh&#224;/H&#7847;m ch&#7913;a m&#225;y bay</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>361.0015</cx>
+      <cy>47.2686</cy>
+      <w>78.3452</w>
+      <h>43.7118</h>
+      <angle>0.0958</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>Tr&#7921;c th&#259;ng</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>168.6077</cx>
+      <cy>146.8544</cy>
+      <w>64.7636</w>
+      <h>19.7358</h>
+      <angle>0.119769</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>Tr&#7921;c th&#259;ng</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>177.6077</cx>
+      <cy>123.8544</cy>
+      <w>64.7636</w>
+      <h>19.7358</h>
+      <angle>0.119769</angle>
+    </robndbox>
+  </object>
+</annotation>

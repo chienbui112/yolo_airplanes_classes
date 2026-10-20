@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Soltsy_018.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Soltsy_018.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>653.0706</cx>
+            <cy>118.0825</cy>
+            <w>145.7025</w>
+            <h>83.1404</h>
+            <angle>0.8489</angle>
+        </robndbox>
+        <confidence>0.9045</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>383.6476</cx>
+            <cy>328.8125</cy>
+            <w>144.4654</w>
+            <h>81.8476</h>
+            <angle>0.8199</angle>
+        </robndbox>
+        <confidence>0.9018</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>116.0382</cx>
+            <cy>535.1319</cy>
+            <w>141.4834</w>
+            <h>81.8198</h>
+            <angle>0.8400</angle>
+        </robndbox>
+        <confidence>0.8991</confidence>
+    </object>
+</annotation>

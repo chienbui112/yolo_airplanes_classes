@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Barksdale_016.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Barksdale_016.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>263.9364</cx>
+            <cy>272.4385</cy>
+            <w>148.4054</w>
+            <h>128.1040</h>
+            <angle>2.9618</angle>
+        </robndbox>
+        <confidence>0.9327</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>421.9471</cx>
+            <cy>249.5656</cy>
+            <w>146.2045</w>
+            <h>130.8992</h>
+            <angle>2.9753</angle>
+        </robndbox>
+        <confidence>0.9327</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>482.8598</cx>
+            <cy>629.5396</cy>
+            <w>143.0689</w>
+            <h>126.2589</h>
+            <angle>2.9982</angle>
+        </robndbox>
+        <confidence>0.9228</confidence>
+    </object>
+</annotation>

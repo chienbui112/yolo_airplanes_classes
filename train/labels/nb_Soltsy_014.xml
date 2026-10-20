@@ -1,0 +1,42 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Soltsy_014</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Soltsy_014.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>516.9952</cx>
+      <cy>126.4565</cy>
+      <w>141.5475</w>
+      <h>83.8978</h>
+      <angle>0.937</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>589.7493</cx>
+      <cy>590.507</cy>
+      <w>136.6001</w>
+      <h>76.2948</h>
+      <angle>1.0763</angle>
+    </robndbox>
+  </object>
+</annotation>

@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Dyess_017.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Dyess_017.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>288.0803</cx>
+            <cy>574.3057</cy>
+            <w>141.0669</w>
+            <h>130.5527</h>
+            <angle>2.7377</angle>
+        </robndbox>
+        <confidence>0.9282</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>225.6129</cx>
+            <cy>446.0007</cy>
+            <w>137.5108</w>
+            <h>129.3220</h>
+            <angle>2.7482</angle>
+        </robndbox>
+        <confidence>0.9183</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>160.8796</cx>
+            <cy>314.9949</cy>
+            <w>141.9101</w>
+            <h>129.8568</h>
+            <angle>2.7029</angle>
+        </robndbox>
+        <confidence>0.9165</confidence>
+    </object>
+</annotation>

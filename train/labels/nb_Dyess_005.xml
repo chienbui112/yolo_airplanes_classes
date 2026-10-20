@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Dyess_005.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Dyess_005.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>353.7870</cx>
+            <cy>552.9564</cy>
+            <w>135.3228</w>
+            <h>129.6533</h>
+            <angle>2.9646</angle>
+        </robndbox>
+        <confidence>0.9181</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>267.9874</cx>
+            <cy>126.4187</cy>
+            <w>141.7174</w>
+            <h>136.7290</h>
+            <angle>2.9431</angle>
+        </robndbox>
+        <confidence>0.9122</confidence>
+    </object>
+</annotation>

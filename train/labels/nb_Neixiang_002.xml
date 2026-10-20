@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Neixiang_002.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Neixiang_002.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>501.0972</cx>
+            <cy>290.6216</cy>
+            <w>116.2369</w>
+            <h>107.9638</h>
+            <angle>0.0545</angle>
+        </robndbox>
+        <confidence>0.8644</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>332.8201</cx>
+            <cy>283.5294</cy>
+            <w>116.8981</w>
+            <h>107.5981</h>
+            <angle>0.0654</angle>
+        </robndbox>
+        <confidence>0.4979</confidence>
+    </object>
+    </annotation>

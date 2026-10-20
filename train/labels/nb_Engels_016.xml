@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Engels_016</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Engels_016.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>449.825</cx>
+      <cy>427.7197</cy>
+      <w>164.7193</w>
+      <h>162.3719</h>
+      <angle>0.8347</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>686.7556</cx>
+      <cy>171.0313</cy>
+      <w>162.5839</w>
+      <h>162.7941</h>
+      <angle>0.8475</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>130.8026</cx>
+      <cy>729.1121</cy>
+      <w>166.2284</w>
+      <h>162.1917</h>
+      <angle>0.8248</angle>
+    </robndbox>
+  </object>
+</annotation>

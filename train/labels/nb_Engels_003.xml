@@ -1,0 +1,42 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Engels_003</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Engels_003.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>100.4384</cx>
+      <cy>383.0178</cy>
+      <w>162.3922</w>
+      <h>155.6474</h>
+      <angle>2.7659</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>736.5996</cx>
+      <cy>249.11</cy>
+      <w>130.001</w>
+      <h>96.221</h>
+      <angle>0.8167</angle>
+    </robndbox>
+  </object>
+</annotation>

@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Dyagilevo_010</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Dyagilevo_010.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>127.5439</cx>
+      <cy>606.2632</cy>
+      <w>139.625</w>
+      <h>131.0537</h>
+      <angle>2.0635</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>397.9412</cx>
+      <cy>125.4367</cy>
+      <w>141.54</w>
+      <h>130.8673</h>
+      <angle>2.0484</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>259.2496</cx>
+      <cy>359.039</cy>
+      <w>139.5868</w>
+      <h>127.6001</h>
+      <angle>2.046</angle>
+    </robndbox>
+  </object>
+</annotation>

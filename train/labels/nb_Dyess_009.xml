@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Dyess_009</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Dyess_009.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>218.5323</cx>
+      <cy>81.116</cy>
+      <w>140.4223</w>
+      <h>129.1558</h>
+      <angle>2.7264</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>279.6012</cx>
+      <cy>211.9199</cy>
+      <w>139.9201</w>
+      <h>131.0519</h>
+      <angle>2.72</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>518.5396</cx>
+      <cy>734.1271</cy>
+      <w>139.9048</w>
+      <h>129.0015</h>
+      <angle>2.7117</angle>
+    </robndbox>
+  </object>
+</annotation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Ellsworth_005.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Ellsworth_005.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>379.5749</cx>
+            <cy>94.9182</cy>
+            <w>116.8008</w>
+            <h>107.7686</h>
+            <angle>0.8230</angle>
+        </robndbox>
+        <confidence>0.9284</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>450.8459</cx>
+            <cy>726.2153</cy>
+            <w>115.8233</w>
+            <h>110.2230</h>
+            <angle>0.8382</angle>
+        </robndbox>
+        <confidence>0.9260</confidence>
+    </object>
+</annotation>

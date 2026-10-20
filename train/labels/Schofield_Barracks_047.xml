@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>Helicopter_new_800</folder>
+    <filename>Schofield_Barracks_047.jpg</filename>
+    <path>H:\TrainData\Plane\Helicopter_new_800\Schofield_Barracks_047.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>394.2025</cx>
+            <cy>583.1593</cy>
+            <w>74.8423</w>
+            <h>57.8926</h>
+            <angle>2.7272</angle>
+        </robndbox>
+        <confidence>0.8853</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>354.6426</cx>
+            <cy>477.8378</cy>
+            <w>74.0307</w>
+            <h>60.9224</h>
+            <angle>2.7606</angle>
+        </robndbox>
+        <confidence>0.8594</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>310.7688</cx>
+            <cy>373.5168</cy>
+            <w>71.4556</w>
+            <h>53.8908</h>
+            <angle>2.6777</angle>
+        </robndbox>
+        <confidence>0.8491</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>641.2519</cx>
+            <cy>218.1458</cy>
+            <w>79.2324</w>
+            <h>61.5033</h>
+            <angle>0.7031</angle>
+        </robndbox>
+        <confidence>0.8482</confidence>
+    </object>
+</annotation>

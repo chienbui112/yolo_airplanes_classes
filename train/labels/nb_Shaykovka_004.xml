@@ -1,0 +1,42 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Shaykovka_004</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Shaykovka_004.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>Tr&#7921;c th&#259;ng</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>530.3423</cx>
+      <cy>220.589</cy>
+      <w>70.449</w>
+      <h>58.9364</h>
+      <angle>0.3359</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>299.7087</cx>
+      <cy>630.4186</cy>
+      <w>131.8508</w>
+      <h>96.5552</h>
+      <angle>3.102</angle>
+    </robndbox>
+  </object>
+</annotation>

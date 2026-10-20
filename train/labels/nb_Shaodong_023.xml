@@ -1,0 +1,42 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Shaodong_023</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Shaodong_023.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>293.6649</cx>
+      <cy>466.2533</cy>
+      <w>113.0394</w>
+      <h>107.1817</h>
+      <angle>1.1424</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>511.9902</cx>
+      <cy>376.4418</cy>
+      <w>116.5857</w>
+      <h>116.4577</h>
+      <angle>1.1721</angle>
+    </robndbox>
+  </object>
+</annotation>

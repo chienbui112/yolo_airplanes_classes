@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Soltsy_006.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Soltsy_006.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>491.6448</cx>
+            <cy>147.4550</cy>
+            <w>130.2736</w>
+            <h>76.4931</h>
+            <angle>1.4468</angle>
+        </robndbox>
+        <confidence>0.8989</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>384.7288</cx>
+            <cy>631.1442</cy>
+            <w>121.2316</w>
+            <h>69.8101</h>
+            <angle>1.6548</angle>
+        </robndbox>
+        <confidence>0.8840</confidence>
+    </object>
+</annotation>

@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Belaya_008</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Belaya_008.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>464.3794</cx>
+      <cy>244.7375</cy>
+      <w>121.8813</w>
+      <h>98.0938</h>
+      <angle>0.9627</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>504.1866</cx>
+      <cy>657.2231</cy>
+      <w>122.82</w>
+      <h>71.9543</h>
+      <angle>0.9512</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>199.8598</cx>
+      <cy>646.2722</cy>
+      <w>122.5117</w>
+      <h>71.2427</h>
+      <angle>2.5414</angle>
+    </robndbox>
+  </object>
+</annotation>

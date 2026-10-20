@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Xian_Lintong_021</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Xian_Lintong_021.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>191.7318</cx>
+      <cy>369.5898</cy>
+      <w>127.5522</w>
+      <h>115.3174</h>
+      <angle>1.9687</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>78.6637</cx>
+      <cy>324.1021</cy>
+      <w>127.5181</w>
+      <h>115.3961</h>
+      <angle>1.9571</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>648.5138</cx>
+      <cy>564.3539</cy>
+      <w>126.1976</w>
+      <h>107.2724</h>
+      <angle>1.9872</angle>
+    </robndbox>
+  </object>
+</annotation>

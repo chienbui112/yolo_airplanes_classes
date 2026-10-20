@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>Helicopter_new_800</folder>
+    <filename>Schofield_Barracks_028.jpg</filename>
+    <path>H:\TrainData\Plane\Helicopter_new_800\Schofield_Barracks_028.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>444.1270</cx>
+            <cy>480.0170</cy>
+            <w>54.0402</w>
+            <h>45.2684</h>
+            <angle>2.8023</angle>
+        </robndbox>
+        <confidence>0.8858</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>407.0296</cx>
+            <cy>394.4278</cy>
+            <w>57.1600</w>
+            <h>48.1335</h>
+            <angle>2.6909</angle>
+        </robndbox>
+        <confidence>0.8772</confidence>
+    </object>
+</annotation>

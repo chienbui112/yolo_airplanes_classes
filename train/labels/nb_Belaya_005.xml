@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Belaya_005.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Belaya_005.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>436.1693</cx>
+            <cy>316.4483</cy>
+            <w>121.2336</w>
+            <h>68.9691</h>
+            <angle>2.4747</angle>
+        </robndbox>
+        <confidence>0.8955</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>380.4416</cx>
+            <cy>298.8837</cy>
+            <w>119.9693</w>
+            <h>66.5268</h>
+            <angle>2.5162</angle>
+        </robndbox>
+        <confidence>0.8796</confidence>
+    </object>
+</annotation>

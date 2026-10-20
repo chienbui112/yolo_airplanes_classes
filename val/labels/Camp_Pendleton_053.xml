@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>Helicopter_new_800</folder>
+    <filename>Camp_Pendleton_053.jpg</filename>
+    <path>H:\TrainData\Plane\Helicopter_new_800\Camp_Pendleton_053.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>677.5078</cx>
+            <cy>130.3266</cy>
+            <w>76.2691</w>
+            <h>55.7632</h>
+            <angle>3.0424</angle>
+        </robndbox>
+        <confidence>0.8945</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>676.3464</cx>
+            <cy>40.7364</cy>
+            <w>78.1177</w>
+            <h>56.7776</h>
+            <angle>3.0390</angle>
+        </robndbox>
+        <confidence>0.8890</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Trực thăng</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>89.6715</cx>
+            <cy>403.0233</cy>
+            <w>79.4111</w>
+            <h>64.0185</h>
+            <angle>1.5457</angle>
+        </robndbox>
+        <confidence>0.8482</confidence>
+    </object>
+</annotation>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Minot_011.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Minot_011.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>456.8681</cx>
+            <cy>462.7550</cy>
+            <w>156.4088</w>
+            <h>131.1824</h>
+            <angle>0.6275</angle>
+        </robndbox>
+        <confidence>0.9450</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>644.8120</cx>
+            <cy>597.6931</cy>
+            <w>156.8965</w>
+            <h>135.1088</h>
+            <angle>0.6316</angle>
+        </robndbox>
+        <confidence>0.9349</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>262.8311</cx>
+            <cy>324.9728</cy>
+            <w>155.8749</w>
+            <h>133.2345</h>
+            <angle>0.6273</angle>
+        </robndbox>
+        <confidence>0.9346</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>62.0379</cx>
+            <cy>185.8004</cy>
+            <w>160.7555</w>
+            <h>132.5473</h>
+            <angle>0.6304</angle>
+        </robndbox>
+        <confidence>0.9337</confidence>
+    </object>
+</annotation>

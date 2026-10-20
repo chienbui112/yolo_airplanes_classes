@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Minot_019.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Minot_019.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>198.6980</cx>
+            <cy>601.7822</cy>
+            <w>165.7910</w>
+            <h>136.8296</h>
+            <angle>0.6294</angle>
+        </robndbox>
+        <confidence>0.9414</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>269.4837</cx>
+            <cy>135.6561</cy>
+            <w>159.0350</w>
+            <h>140.1684</h>
+            <angle>0.6036</angle>
+        </robndbox>
+        <confidence>0.9274</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>671.8607</cx>
+            <cy>420.1373</cy>
+            <w>161.2645</w>
+            <h>142.6724</h>
+            <angle>0.6012</angle>
+        </robndbox>
+        <confidence>0.9231</confidence>
+    </object>
+</annotation>

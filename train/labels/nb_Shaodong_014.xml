@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<annotation verified="no">
+    <folder>MayBay_2026-09-28_800</folder>
+    <filename>nb_Shaodong_014.jpg</filename>
+    <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Shaodong_014.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>124.1733</cx>
+            <cy>363.3438</cy>
+            <w>126.0905</w>
+            <h>108.9040</h>
+            <angle>1.9294</angle>
+        </robndbox>
+        <confidence>0.8816</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>239.7474</cx>
+            <cy>407.8734</cy>
+            <w>121.5199</w>
+            <h>111.1981</h>
+            <angle>1.9264</angle>
+        </robndbox>
+        <confidence>0.8511</confidence>
+    </object>
+    <object>
+        <type>robndbox</type>
+        <name>Máy bay ném bom</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <robndbox>
+            <cx>353.3976</cx>
+            <cy>449.9560</cy>
+            <w>123.3637</w>
+            <h>107.2021</h>
+            <angle>1.9161</angle>
+        </robndbox>
+        <confidence>0.8446</confidence>
+    </object>
+</annotation>

@@ -1,0 +1,56 @@
+<annotation verified="no">
+  <folder>MayBay_2026-09-28_800</folder>
+  <filename>nb_Danyang_008</filename>
+  <path>H:\TrainData\Plane\MayBay_2026-09-28_800\nb_Danyang_008.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>154.4176</cx>
+      <cy>451.1418</cy>
+      <w>126.0387</w>
+      <h>123.3736</h>
+      <angle>1.5416</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>417.0215</cx>
+      <cy>444.365</cy>
+      <w>130.2487</w>
+      <h>125.5692</h>
+      <angle>1.5596</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>M&#225;y bay n&#233;m bom</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>704.4355</cx>
+      <cy>448.2732</cy>
+      <w>123.8096</w>
+      <h>118.9821</h>
+      <angle>1.6137</angle>
+    </robndbox>
+  </object>
+</annotation>
