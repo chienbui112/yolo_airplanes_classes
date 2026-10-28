@@ -1,0 +1,13 @@
+path: yolo_airplanes_classes
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: Máy bay chiến đấu
+  1: Máy bay vận tải/Tiếp dầu
+  2: Máy bay trinh sát/Chỉ huy/Cảnh báo
+  3: Máy bay ném bom
+  4: Máy bay dân dụng
+  5: Trực thăng
+  6: Nhà/Hầm chứa máy bay
